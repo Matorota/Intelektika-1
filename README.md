@@ -80,25 +80,25 @@ Kiekviename vizualizacijos faile:
 
 **Privalumai:**
 
-- ✅ Visada randa trumpiausią kelią nesvertiniuose grafuose
-- ✅ Gerai tinka, kai sprendimas yra arti pradžios
+- Visada randa trumpiausią kelią nesvertiniuose grafuose
+- Gerai tinka, kai sprendimas yra arti pradžios
 
 **Trūkumai:**
 
-- ❌ Naudoja daugiau atminties
-- ❌ Gali aplankyti daugiau viršūnių nei reikia
+- Naudoja daugiau atminties
+- Gali aplankyti daugiau viršūnių nei reikia
 
 ### DFS (Depth First Search)
 
 **Privalumai:**
 
-- ✅ Naudoja mažiau atminties
-- ✅ Greičiau randa sprendimą giliuose grafuose
+- Naudoja mažiau atminties
+- Greičiau randa sprendimą giliuose grafuose
 
 **Trūkumai:**
 
-- ❌ Negarantuoja trumpiausio kelio
-- ❌ Gali įstrigti giliose šakose
+- Negarantuoja trumpiausio kelio
+- Gali įstrigti giliose šakose
 
 ## Sudėtingumas
 
