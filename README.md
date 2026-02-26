@@ -112,7 +112,3 @@ kur:
 - V - viršūnių skaičius
 - E - briaunų skaičius
 - h - maksimalus medžio gylis
-
-## Autorius
-
-Programa sukurta kaip neinformuotos paieškos algoritmų tyrimo projektas.
