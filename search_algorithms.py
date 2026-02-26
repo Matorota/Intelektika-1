@@ -278,7 +278,7 @@ BENDROS PASTABOS:
   • BFS erdvės sudėtingumas O(V), DFS - O(h), kur h - maksimalus gylis
     """)
     print("="*70)
-    print("\n✅ Programa baigta! PNG failai išsaugoti.")
+    print("\n Programa baigta! PNG failai išsaugoti.")
     print("   Galite juos peržiūrėti savo failų naršyklėje.")
 
 
